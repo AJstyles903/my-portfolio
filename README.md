@@ -18,7 +18,7 @@ Explore my portfolio to see my work and learn more about my skills and experienc
 ## Features
 
 - Provides a clean and intuitive user interface for reading.
-- Please visit portfolio 
+- Please visit portfolio https://aryanjay-my-portfolio.vercel.app/
 
 
 ## Technologies
