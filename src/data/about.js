@@ -1,0 +1,6 @@
+const data = {
+    title: "Hello Everyone",
+    description: "I am writing to express my interest in the Frontend Developer position. As I a currently last year pursuing my graduation with a Bachelor's degree in BCA and a passion for creating intuitive user interfaces, I am excited about the opportunity to contribute to your team and grow as a professional in the field of web development. During my studies, I have acquired a strong foundation in HTML, CSS, and JavaScript, TailwindCSS, Node js as well as experience with popular frontend frameworks like React js, through hands-on projects. I have honed my skills in building responsive and visually appealing websites. Additionally, ensuring that the applications I develop are inclusive and user-friendly for all. What sets me apart is my eagerness to learn and adapt to new technologies. I am constantly seeking out opportunities to expand my knowledge and stay updated on the latest trends in front-end development. I am confident that my dedication, combined with my technical skills and creative mindset, would make me a valuable asset to your team."
+};
+
+export default data;
